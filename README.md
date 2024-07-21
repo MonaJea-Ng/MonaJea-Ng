@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm Monika Jea Ng, a computer science student who wants to integrate sone sort of gamification in stuff I do.
+
+# Past Activities...
+- School Activities and Projects
+- Design Projects
+
+# Currently Activities...
+- Creating MoodLink, Mobile Application to edit widgets!~~
+- Studying Unity to learn how to create games
+- Thesis 
+
+# Future Activities...
+- Develop a game (the GDD is still in the works)
+
 <!--
 **MonaJea-Ng/MonaJea-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
