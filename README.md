@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Monika Jea Ng, a computer science student who wants to integrate sone sort of gamification in stuff I do.
+I'm Monika Jea Ng, a computer science student who wants to integrate some sort of gamification in stuff I do.
 
 ### Past Activities...
 - School Activities and Projects
