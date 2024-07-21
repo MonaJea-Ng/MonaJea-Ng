@@ -2,16 +2,16 @@
 
 I'm Monika Jea Ng, a computer science student who wants to integrate sone sort of gamification in stuff I do.
 
-# Past Activities...
+### Past Activities...
 - School Activities and Projects
 - Design Projects
 
-# Currently Activities...
+### Currently Activities...
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
 - Thesis 
 
-# Future Activities...
+### Future Activities...
 - Develop a game (the GDD is still in the works)
 
 <!--
