@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Monika Jea Ng, a computer science student who wants to integrate some sort of gamification in stuff I do.
+(Also currently fixing my Github Profile; will be uploading my past works here)
 
 ### Past Activities...
 - School Activities and Projects
