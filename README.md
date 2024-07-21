@@ -11,7 +11,7 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
 - Thesis
-- Creating Der Saturn GDD
+- Creating Dear Saturn GDD
 
 ### Future Activities...
 - Develop Dear Saturn 
