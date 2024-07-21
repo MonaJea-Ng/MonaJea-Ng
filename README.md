@@ -4,7 +4,7 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 (Also currently fixing my Github Profile; will be uploading my past works here)
 
 ### Past Activities...
-- School Activities and Projects (Invento, Matcha EMS, PDF Resume Screener)
+- School Activities and Projects (Invento, Matcha EMS, PDF Resume Screener, Emergency Unit Locator)
 - Design Projects (MoodLink)
 - Personal Projects (TodoList)
 
