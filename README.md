@@ -10,10 +10,11 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 ### Currently Activities...
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
-- Thesis 
+- Thesis
+- Creating Der Saturn GDD
 
 ### Future Activities...
-- Develop a game (the GDD is still in the works)
+- Develop Dear Saturn 
 
 <!--
 **MonaJea-Ng/MonaJea-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
