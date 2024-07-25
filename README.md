@@ -13,6 +13,7 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 - Studying Unity to learn how to create games
 - Thesis Tool
 - Dear Saturn Game Design Document
+- ReadSearch (out of spontaneity)
 
 ### Future Activities...
 - Develop Dear Saturn 
