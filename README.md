@@ -8,7 +8,7 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 - Design Projects (MoodLink)
 - Personal Projects (TodoList)
 
-### Currently Activities...
+### Current Activities...
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
 - Thesis Tool
