@@ -13,7 +13,7 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
 - Dear Saturn Game Design Document
-- ReadSearch Website (out of spontaneity)
+- Reading App / Website
 - Upskilling!!!
 
 ### Future Activities...
