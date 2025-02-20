@@ -7,13 +7,14 @@ I'm Monika Jea Ng, a computer science student who wants to integrate some sort o
 - School Activities and Projects (Invento, Matcha EMS, PDF Resume Screener, Emergency Unit Locator)
 - Design Projects (MoodLink)
 - Personal Projects (TodoList)
+- Thesis Tool
 
 ### Current Activities...
 - Creating MoodLink, Mobile Application to edit widgets!~~
 - Studying Unity to learn how to create games
-- Thesis Tool
 - Dear Saturn Game Design Document
 - ReadSearch Website (out of spontaneity)
+- Upskilling!!!
 
 ### Future Activities...
 - Develop Dear Saturn 
