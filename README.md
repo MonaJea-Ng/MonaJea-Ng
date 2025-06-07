@@ -3,14 +3,10 @@
 I'm Monika Jea Ng, a computer science student interested in **Artificial Intelligence**, **Data Science**, and **Game Development**.
 (Currently fixing up my GitHub Profile - will be uploading past works soon!)
 
---
-
 ### 🎓 Past Activities
 - **School Projects**: Invento, Matcha EMS, PDF Resume Screener, Emergency Unit Locator
 - **Thesis Tool**: Stegomalware Image Detector and Classifier
 - **Personal Project**: Sentiment and Trend Analysis of Netflix Reviews
-
----
 
 ### 🚀 Current Projects
 - **Upskilling** in AI, Data Science, and Game Development (*Top Priority!*)
@@ -19,8 +15,6 @@ I'm Monika Jea Ng, a computer science student interested in **Artificial Intelli
 - **Dear Saturn**: Game design documentation for an upcoming game *(Design phase)*
 - **Ultimate Reader**: Reading tracker app/website *(Design phase)*
 - **IdealLMS**: Blueprinting the features of an ideal Learning Management System *(Design phase)*
-
----
 
 ### 🎯 Goals
 - **Internships**: Seeking opportunities to gain real-world experience
