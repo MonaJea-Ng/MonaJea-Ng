@@ -1,23 +1,34 @@
 ## Hi there 👋
 
-I'm Monika Jea Ng, a computer science student who wants to integrate some sort of gamification in stuff I do.
-(Also currently fixing my Github Profile; will be uploading my past works here)
+I'm Monika Jea Ng, a computer science student interested in **Artificial Intelligence**, **Data Science**, and **Game Development**.
+(Currently fixing up my GitHub Profile - will be uploading past works soon!)
 
-### Past Activities...
-- School Activities and Projects (Invento, Matcha EMS, PDF Resume Screener, Emergency Unit Locator)
-- Design Projects (MoodLink)
-- Personal Projects (TodoList)
-- Thesis Tool
+---
 
-### Current Activities...
-- Creating MoodLink, Mobile Application to edit widgets!~~
-- Studying Unity to learn how to create games
-- Dear Saturn Game Design Document
-- Reading App / Website
-- Upskilling!!!
+### 🎓 Past Activities
+- **School Projects**: Invento, Matcha EMS, PDF Resume Screener, Emergency Unit Locator
+- **Thesis Tool**: Stegomalware Image Detector and Classifier
+- **Personal Project**: Sentiment and Trend Analysis of Netflix Reviews
 
-### Future Activities...
-- Develop Dear Saturn 
+---
+
+### 🚀 Current Projects
+- **Upskilling** in AI, Data Science, and Game Development (*Top Priority!*)
+- **Portfolio Website & Blog** to showcase projects and document learning *(Development phase)*
+- **MoodLink**: A mobile widget app that visualizes your mood through colors *(Design phase)*
+- **Dear Saturn**: Game design documentation for an upcoming game *(Design phase)*
+- **Ultimate Reader**: Reading tracker app/website *(Design phase)*
+- **IdealLMS**: Blueprinting the features of an ideal Learning Management System *(Design phase)*
+
+---
+
+### 🎯 Goals
+- **Internships**: Seeking opportunities to gain real-world experience
+- **Open Source**: Contribute to meaningful projects in the tech community
+
+---
+
+📌 *Stay tuned for more updates!*
 
 <!--
 **MonaJea-Ng/MonaJea-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
