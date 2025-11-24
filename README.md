@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Monika Jea Ng**, a computer science student interested in **Artificial Intelligence**, **Data Science**, and **Game Development**.
+I'm **Monika Jea Ng**, a computer science student interested in **Artificial Intelligence**, **Data Science**, and **Cloud**.
 (Currently fixing up my GitHub Profile - will be uploading past works soon!)
 
 ### 🎓 Past Activities
