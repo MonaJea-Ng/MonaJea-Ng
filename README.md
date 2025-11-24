@@ -15,9 +15,10 @@ I'm **Monika Jea Ng**, a computer science student interested in **Artificial Int
 - **Dear Saturn**: Game design documentation for an upcoming game *(Design phase)*
 - **Ultimate Reader**: Reading tracker app/website *(Design phase)*
 - **IdealLMS**: Blueprinting the features of an ideal Learning Management System *(Design phase)*
+- **VOCSystems**: Cloud-based sentiment analysis for user review to hear the voice of consumers! *(Development Phase)*
 
 ### 🎯 Goals
-- **Internships**: Seeking opportunities to gain real-world experience
+- **Tech Job**: Seeking opportunities to gain real-world experience and learn more about the tech industry techniques
 - **Open Source**: Contribute to meaningful projects in the tech community
 
 ---
