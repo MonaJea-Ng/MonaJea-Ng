@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Monika Jea Ng**, a computer science student interested in **Artificial Intelligence**, **Data Science**, and **Cloud**.
+I'm **Monika Jea Ng**, a computer science student interested in **Artificial Intelligence**, **Data Science**, **Cloud**, and **Game Development**.
 (Currently fixing up my GitHub Profile - will be uploading past works soon!)
 
 ### 🎓 Past Activities
@@ -9,7 +9,7 @@ I'm **Monika Jea Ng**, a computer science student interested in **Artificial Int
 - **Personal Project**: Sentiment and Trend Analysis of Netflix Reviews
 
 ### 🚀 Current Projects
-- **Upskilling** in AI, Data Science, and Game Development (*Top Priority!*)
+- **Upskilling** in AI, Data Science, Cloud, and Game Development (*Top Priority!*)
 - **Portfolio Website & Blog** to showcase projects and document learning *(Development phase)*
 - **MoodLink**: A mobile widget app that visualizes your mood through colors *(Design phase)*
 - **Dear Saturn**: Game design documentation for an upcoming game *(Design phase)*
